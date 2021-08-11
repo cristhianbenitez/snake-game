@@ -1,4 +1,5 @@
 # snake-game
+![snake game](https://i.imgur.com/Q2DYju7.png)
 JavaScipt methods used in this game :
 .addEventListener()
 .querySelectorAll()
