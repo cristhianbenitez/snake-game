@@ -1,4 +1,5 @@
-# snake-game
+# [Snake Game](https://snake-game-sample.netlify.app)
+-----
 ![snake game](https://i.imgur.com/Q2DYju7.png)
 ---
 ##JavaScipt methods used in this game :
